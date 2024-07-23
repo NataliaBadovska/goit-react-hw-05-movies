@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/892.3b446daa.chunk.css","mappings":"AAAA,sCACI,cACJ","sources":["components/TrendingMovies/TrendingMovies.module.css"],"sourcesContent":[".trendingMovies{\n    cursor: pointer;\n}"],"names":[],"sourceRoot":""}
