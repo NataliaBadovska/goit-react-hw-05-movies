@@ -3,8 +3,6 @@ import { Suspense } from "react";
 import ButtonGoBack from 'components/buttonGoBack/ButtonGoBack'
 import MovieDetailsComponent from '../components/MovieDetailsComponent/MovieDetailsComponent';
 
-
-
 function MovieDetails() {
     return (
          <>

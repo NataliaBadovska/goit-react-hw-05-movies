@@ -20,7 +20,7 @@ function Cast() {
                  {cast.cast.map(({id, name, profile_path, character}) => {
                      return <li key={id} >
                          <div className={css.photoBox}>
-                             <img src={profile_path} alt={name} className={css.photo}></img>
+                             <img src='' alt={name} className={css.photo}></img>
                          </div>
                          <p>{name}</p>
                          <p>Character: {character}</p>

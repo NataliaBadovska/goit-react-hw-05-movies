@@ -25,7 +25,7 @@ function MovieDetailsComponent() {
         return (
             <div className={css.details}>
                 <div className={css.posterBox}>
-                    <img src={detais.poster_path} alt={detais.original_title} className={css.poster}/>
+                    <img src='' alt={detais.original_title} className={css.poster}/>
                 </div>
                 <div>
                     <h2>{detais.original_title} ({detais.release_date.slice(0, 4)})</h2>
