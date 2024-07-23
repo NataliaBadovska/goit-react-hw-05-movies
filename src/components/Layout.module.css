@@ -1,0 +1,19 @@
+.navigationLink{
+margin-right: 10px;
+text-decoration: none;
+
+}
+
+.navigation{
+    padding: 10px 20px 10px 20px;
+    box-shadow: 0px 6px 0px 0px rgba(0, 0, 255, .2);
+    margin-bottom: 10px;
+}
+
+.main{
+    padding: 6px;
+}
+
+
+
+

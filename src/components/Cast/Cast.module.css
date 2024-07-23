@@ -1,0 +1,11 @@
+.photo{
+    display:block ;
+    width: 100%;
+}
+
+.photoBox{
+    display: block;
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
